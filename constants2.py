@@ -1,0 +1,20 @@
+countries = {
+    "UZ": "O'zbekiston",
+    "RU": "Rossiya",
+    "US": "Amerika Qo'shma Shtatlari",
+    "GB": "Angliya",
+    "FR": "Fransiya",
+    "DE": "Germaniya",
+    "IT": "Italiya",
+    "ES": "Ispaniya",
+    "CN": "Xitoy",
+    "JP": "Yaponiya",
+    "KR": "Janubiy Koreya",
+    "KZ": "Qozog'iston",
+    "KG": "Qirg'iziston",
+    "TJ": "Tojikiston",
+    "TM": "Turkmaniston",
+    "AE": "Birlashgan Arab Amirliklari",
+    "TR": "Turkiya",
+    "IN": "Hindiston"
+}
