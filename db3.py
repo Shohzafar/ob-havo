@@ -110,11 +110,11 @@ class Database:
         self.execute(sql=sql, args=(user_id,), commit=True)
 
 db = Database(
-    db_name     = env.str("DB_NAME"),
-    db_user     = env.str("DB_USER"),
-    db_password = env.str("DB_PASSWORD"),
-    db_host     = env.str("DB_HOST"),
-    db_port     = env.int("DB_PORT"),
+    db_name     = env.str("n82_bot"),
+    db_user     = env.str("root"),
+    db_password = env.str("Shohzafar200619"),
+    db_host     = env.str("localhost"),
+    db_port     = env.int("3306"),
 )
 
 
