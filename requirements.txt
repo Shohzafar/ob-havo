@@ -2,3 +2,5 @@ aiogram
 aiohttp
 environs
 pymysql
+requests
+dotenv
